@@ -3,4 +3,6 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
+Link: https://datahack.analyticsvidhya.com/contest/black-friday/#ProblemStatement
+
 ![Black-Friday-sale](https://user-images.githubusercontent.com/88396377/146640293-4ba9857b-0d8a-4401-aa80-68e5c6dbaa9b.jpg)
