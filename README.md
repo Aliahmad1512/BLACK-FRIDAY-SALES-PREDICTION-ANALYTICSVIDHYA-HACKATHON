@@ -5,6 +5,6 @@ Now, they want to build a model to predict the purchase amount of customer again
 
 Link: https://datahack.analyticsvidhya.com/contest/black-friday/#ProblemStatement
 
-Link to my article: https://medium.com/@1512aliahmad/black-friday-sales-prediction-cd477ebae018
+Link to my article : https://medium.com/@1512aliahmad/black-friday-sales-prediction-cd477ebae018
 
 ![Black-Friday-sale](https://user-images.githubusercontent.com/88396377/146640293-4ba9857b-0d8a-4401-aa80-68e5c6dbaa9b.jpg)
